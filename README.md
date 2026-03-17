@@ -1,5 +1,5 @@
 
-# Programación I - 2C - 2025
+# Programación I - 1C - 2026 - TM - PRESENCIAL
 
 En este repositorio encontrarás el material y ejemplos vistos en cada clase de **Programación I** durante el segundo cuatrimestre de 2025.  
 Después de cada encuentro, se subirán aquí los códigos y ejercicios trabajados, para que puedas revisarlos, modificarlos y practicar por tu cuenta.
