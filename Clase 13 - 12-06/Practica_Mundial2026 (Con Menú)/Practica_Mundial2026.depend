@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1780355672 source:c:\users\josea\downloads\tpi_prog1\main.cpp
+	<iostream>
+	"funciones.h"
+
+1780356344 c:\users\josea\downloads\tpi_prog1\funciones.h
+
+1780355655 source:c:\users\josea\downloads\tpi_prog1\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1781228070 source:c:\users\josea\downloads\practica_mundial2026\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1781227895 c:\users\josea\downloads\practica_mundial2026\funciones.h
+
+1781228469 source:c:\users\josea\downloads\practica_mundial2026\main.cpp
+	<iostream>
+	"funciones.h"
+
+1781262948 source:c:\users\profesor\desktop\practica_mundial2026\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1781227895 c:\users\profesor\desktop\practica_mundial2026\funciones.h
+
+1781228469 source:c:\users\profesor\desktop\practica_mundial2026\main.cpp
+	<iostream>
+	"funciones.h"
+
+1781298534 source:e:\12-6\practica_mundial2026\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1781302840 e:\12-6\practica_mundial2026\funciones.h
+
+1781303076 source:e:\12-6\practica_mundial2026\main.cpp
+	<iostream>
+	"funciones.h"
+

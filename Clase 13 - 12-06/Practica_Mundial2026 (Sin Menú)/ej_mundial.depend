@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1781297872 source:e:\12-6\ej_mundial\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
